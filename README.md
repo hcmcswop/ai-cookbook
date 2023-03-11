@@ -1,8 +1,7 @@
 # ai-cookbook
 ## "/art" command
 ### Material 
-https://dallery.gallery/the-dalle-2-prompt-book/
-
+https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y
 ### Stucture :
 /art create n images with size 1024x1024 with prompt "Your prompt goes here"
 
