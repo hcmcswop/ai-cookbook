@@ -23,7 +23,7 @@
 ### Sample use:
 * /art create 2 images with prompt " close up , a cat playing with toy , with a purple background, van gogh style".   
 * /art create 2 images with prompt " A girl riding a motorbike, on mars, digital art". 
-* /art create 2 images with prompt " A girl riding a motorbike, at saigon, with background is bitexco tower, oil painting". 
+* /art create 2 images with prompt " A girl riding a motorbike in Saigon with the Bitexco Tower in the background, depicted in an oil painting. 
 
 ### Please remember to download , the links will be expired after 3 hours.
 
