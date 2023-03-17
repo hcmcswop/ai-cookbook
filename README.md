@@ -32,18 +32,22 @@
 By defaulf, production is chosen.
 ### Language: Support any language:
 ### Example: 
+* Note : Not adding zero at the begining of the phone number : example 0937760429 -> 937760429
 #### User query
-"/query Show me user name and phone which are created last 3 days".
-"/query Hiển thị tên và số điện thoại của người dùng được tạo 3 ngày gần đây".
+* /query Show me user name and phone which are created last 3 days. 
+* /query Hiển thị tên và số điện thoại của người dùng được tạo 3 ngày gần đây.
 #### Order - Swop query 
-"/query Show me the address and code of the 2 latest swop of user with phone ending 937760429".
-"/query Hiển thị địa chỉ và mã của 2 đơn hàng mới nhất của users mà có số điện thoại  ".
-"/query Show swops which are created today".
-"/query Hiển thị các đơn hàng được tạo hôm nay.
+* /query Show me the address and code of the 2 latest swop of user with phone ending 937760429. 
+* /query Hiển thị địa chỉ và mã của 2 đơn hàng mới nhất của users mà có số điện thoại.
+* /query Show swops which are created today. 
+* /query Hiển thị các đơn hàng được tạo hôm nay.
 
 #### Deliveries - Đơn vận chuyển query 
-"/query Show me deliveries which have code like UELN". 
-"/query Show me deliveries which have shipper phone name is 429"
+* /query Show me deliveries which have code like UELN. 
+* /query Hiển thị các đơn vận chuyển có mã như là UELN
+* /query Show me deliveries which have the shipper phone  ending 429.
+* /query Hiển thị các đơn vận chuyển số điện thoại của shipper có số cuối là 429
+
 
 
 
