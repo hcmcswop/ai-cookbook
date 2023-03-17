@@ -36,6 +36,9 @@ By defaulf, production is chosen.
 #### User query
 * /query Show me user name and phone which are created last 3 days. 
 * /query Hiển thị tên và số điện thoại của người dùng được tạo 3 ngày gần đây.
+* /query Show me all shipper info. 
+* /query Hiển thị thông tin tất cả shipper. 
+
 #### Order - Swop query 
 * /query Show me the address and code of the 2 latest swop of user with phone như là 937760429. 
 * /query Hiển thị địa chỉ và mã của 2 đơn hàng mới nhất của users mà có số điện thoại như là 937760429.
