@@ -51,6 +51,10 @@ By defaulf, production is chosen.
 * /query Show me deliveries which have the shipper phone  ending 429.
 * /query Hiển thị các đơn vận chuyển số điện thoại của shipper có số cuối là 429
 
+#### Statistic - Thống kê
+* /query How many users created last month
+* /query Có bao nhiêu người dùng được tạo trong tháng vừa rồi 
+
 
 
 
