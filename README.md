@@ -29,7 +29,7 @@
 
 ## "/query" command
 ### Environment:
-By defaulf, production is chosen.
+By defaul, production is chosen.
 ### Language: Support any language:
 ### Example: 
 * Note : Not adding zero at the begining of the phone number : example 0937760429 -> 937760429
