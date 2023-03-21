@@ -28,7 +28,7 @@
 ### Please remember to download , the links will be expired after 3 hours.
 
 ## "/query" command
-### Enviroment:
+### Environment:
 By defaulf, production is chosen.
 ### Language: Support any language:
 ### Example: 
