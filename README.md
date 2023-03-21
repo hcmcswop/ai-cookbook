@@ -4,7 +4,7 @@
 * https://dallery.gallery/the-dalle-2-prompt-book/
 * [ONLINE - version] https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y
 
-### Stucture :
+### Structure :
 /art create n images with size 1024x1024 with prompt "Your prompt goes here"
 
 ### Supported Size:
