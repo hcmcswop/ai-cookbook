@@ -61,6 +61,7 @@ By defaul, production is chosen.
 #### Statistic - Thống kê
 * /query How many users created last month
 * /query Có bao nhiêu người dùng được tạo trong tháng vừa rồi 
+* /query how many items where item_status_user_assigned equals "listed" and ( item_status_staff_assigned equal "feature" or "showing") and gender is "women"
 
 
 
