@@ -38,6 +38,9 @@ By defaulf, production is chosen.
 * /query Hiển thị tên và số điện thoại của người dùng được tạo 3 ngày gần đây.
 * /query Show me all shipper info. 
 * /query Hiển thị thông tin tất cả shipper. 
+* /query Show address of users with phone ending is 0429 
+* /query Hiển thị địa chỉ người dùng có số đuôi cuói là 0429 
+
 
 #### Order - Swop query 
 * /query Show me the address and code of the 2 latest swop of user with phone như là 937760429. 
@@ -50,6 +53,16 @@ By defaulf, production is chosen.
 * /query Hiển thị các đơn vận chuyển có mã như là UELN
 * /query Show me deliveries which have the shipper phone  ending 429.
 * /query Hiển thị các đơn vận chuyển số điện thoại của shipper có số cuối là 429
+* /query Show me 3 lastest deliveries belongs to users having phone ending 0429
+* /query Hiển thị 3 đơn vận chuyển mới nhất của người dùng có số cuối là 0429
+* /query Show me 3 lastest deliveries which will be delivered today
+* /query Hiển thị 3 đơn vận chuyển được giao trong này hôm nay
+
+
+
+
+
+
 
 #### Statistic - Thống kê
 * /query How many users created last month
