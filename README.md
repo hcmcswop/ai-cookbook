@@ -56,13 +56,7 @@ By defaulf, production is chosen.
 * /query Show me 3 lastest deliveries belongs to users having phone ending 0429
 * /query Hiển thị 3 đơn vận chuyển mới nhất của người dùng có số cuối là 0429
 * /query Show me 3 lastest deliveries which will be delivered today
-* /query Hiển thị 3 đơn vận chuyển được giao trong này hôm nay
-
-
-
-
-
-
+* /query Hiển thị 3 đơn vận chuyển mới nhất được giao trong này hôm nay
 
 #### Statistic - Thống kê
 * /query How many users created last month
