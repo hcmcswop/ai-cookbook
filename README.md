@@ -1,4 +1,7 @@
 # ai-cookbook
+## "/log" command
+* View OTP : /log staging authenticator last 60 lines
+
 ## "/art" command
 ### Material 
 * https://dallery.gallery/the-dalle-2-prompt-book/
@@ -62,6 +65,8 @@ By defaul, production is chosen.
 * /query How many users created last month
 * /query Có bao nhiêu người dùng được tạo trong tháng vừa rồi 
 * /query how many items where item_status_user_assigned equals "listed" and ( item_status_staff_assigned equal "feature" or "showing") and gender is "women"
+
+
 
 
 
