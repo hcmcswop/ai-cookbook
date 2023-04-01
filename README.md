@@ -1,7 +1,9 @@
 # ai-cookbook
 ## "/log" command
 * View OTP : /log staging authenticator last 60 lines
-* View GATEWAY /log staging last 50 lines
+* View GATEWAY: /log staging last 50 lines
+* View users service log: /log staging users last 50 lines 
+
 
 ## "/art" command
 ### Material 
